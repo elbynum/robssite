@@ -103,6 +103,7 @@ search:
 
 menu:
   - label: 'About'
+    link: '/about/'
   - label: 'Writing'
     sub:
       - label: 'Reviews'

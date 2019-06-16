@@ -1,11 +1,32 @@
-pid,label,location,filmformat,camera,filmtype,season,notes,order,layout,collection,thumbnail,full,manifest
-obj8,Back Door,Philadelphia,120mm,Argus Argoflex,Kodak Portra 162,Summer,,07,robpics_item,robpics,"/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj8/full/full/0/default.jpg,/img/derivatives/iiif/obj8/manifest.json
-obj5,Prague Sidewalk,Prague,35mm,Olympus XA,Fujifilm Superia 400,Summer,,04,robpics_item,robpics,"/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj5/full/full/0/default.jpg,/img/derivatives/iiif/obj5/manifest.json
-obj4,Canes,Paris,35mm,Olympus XA,,Spring,,03,robpics_item,robpics,"/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj4/full/full/0/default.jpg,/img/derivatives/iiif/obj4/manifest.json
-obj6,Mannequin,Kansas City,35mm,Olympus XA,,Fall,,05,robpics_item,robpics,"/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj6/full/full/0/default.jpg,/img/derivatives/iiif/obj6/manifest.json
-obj7,Stained Glass,Philadelphia,120mm,Argus Argoflex,Kodak Portra 161,Summer,,06,robpics_item,robpics,"/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj7/full/full/0/default.jpg,/img/derivatives/iiif/obj7/manifest.json
-obj3,Parisian Dog,Paris,35mm,Olympus XA,,Spring,,02,robpics_item,robpics,"/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj3/full/full/0/default.jpg,/img/derivatives/iiif/obj3/manifest.json
-obj2,Prague Windows,Prague,35mm,Olympus XA,,Spring,,01,robpics_item,robpics,"/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj2/full/full/0/default.jpg,/img/derivatives/iiif/obj2/manifest.json
-obj1,Berlin Street,Berlin,35mm,Olympus XA,,Spring,Leaving the Tiergarten,00,robpics_item,robpics,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj1/full/full/0/default.jpg,/img/derivatives/iiif/obj1/manifest.json
-obj9,Street View,"Mexico City, MX",35mm,Olympus XA,,Summer,,08,robpics_item,robpics,"/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj9/full/full/0/default.jpg,/img/derivatives/iiif/obj9/manifest.json
-obj10,Outside,Kansas City,35mm,Olympus XA,Lomo Early Grey 100,Winter,,09,robpics_item,robpics,"/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",/img/derivatives/iiif/images/obj10/full/full/0/default.jpg,/img/derivatives/iiif/obj10/manifest.json
+pid,label,location,filmformat,camera,filmtype,season,notes,order,layout,collection,thumbnail,full
+obj21,Overcast,Venice Beach,35mm,Nikon FG,,Storm,,20,robpics_item,robpics,img/derivatives/simple/obj21/thumbnail.jpg,img/derivatives/simple/obj21/full.jpg
+obj5,Prague Sidewalk,Prague,35mm,Olympus XA,Fujifilm Superia 400,Summer,,04,robpics_item,robpics,img/derivatives/simple/obj5/thumbnail.jpg,img/derivatives/simple/obj5/full.jpg
+obj4,Canes,Paris,35mm,Olympus XA,,Spring,,03,robpics_item,robpics,img/derivatives/simple/obj4/thumbnail.jpg,img/derivatives/simple/obj4/full.jpg
+obj11,Window in Morning,Prague,35mm,Olympus XA,,Spring,,10,robpics_item,robpics,img/derivatives/simple/obj11/thumbnail.jpg,img/derivatives/simple/obj11/full.jpg
+obj13,Arches,Prague,35mm,Olympus XA,,Spring,,12,robpics_item,robpics,img/derivatives/simple/obj13/thumbnail.jpg,img/derivatives/simple/obj13/full.jpg
+obj6,Mannequin,Kansas City,35mm,Olympus XA,,Fall,,05,robpics_item,robpics,img/derivatives/simple/obj6/thumbnail.jpg,img/derivatives/simple/obj6/full.jpg
+obj7,Stained Glass,Philadelphia,120mm,Argus Argoflex,Kodak Portra 161,Summer,,06,robpics_item,robpics,img/derivatives/simple/obj7/thumbnail.jpg,img/derivatives/simple/obj7/full.jpg
+obj12,Bushes,Prague,35mm,Olympus XA,,Spring,,11,robpics_item,robpics,img/derivatives/simple/obj12/thumbnail.jpg,img/derivatives/simple/obj12/full.jpg
+obj16,Branches,Mexico City,35mm,Olympus XA,,Summer,,15,robpics_item,robpics,img/derivatives/simple/obj16/thumbnail.jpg,img/derivatives/simple/obj16/full.jpg
+obj3,Parisian Dog,Paris,35mm,Olympus XA,,Spring,,02,robpics_item,robpics,img/derivatives/simple/obj3/thumbnail.jpg,img/derivatives/simple/obj3/full.jpg
+obj2,Prague Windows,Prague,35mm,Olympus XA,,Spring,,01,robpics_item,robpics,img/derivatives/simple/obj2/thumbnail.jpg,img/derivatives/simple/obj2/full.jpg
+obj17,Potted Plants,Mexico City,35mm,Olympus XA,,Summer,,16,robpics_item,robpics,img/derivatives/simple/obj17/thumbnail.jpg,img/derivatives/simple/obj17/full.jpg
+obj29,Fence,Philadelphia,35mm,Nikon FG,Kodak Portra 160,Fall,,28,robpics_item,robpics,img/derivatives/simple/obj29/thumbnail.jpg,img/derivatives/simple/obj29/full.jpg
+obj15,Tree,Paris,35mm,Olympus XA,,Spring,,14,robpics_item,robpics,img/derivatives/simple/obj15/thumbnail.jpg,img/derivatives/simple/obj15/full.jpg
+obj1,Berlin Street,Berlin,35mm,Olympus XA,,Spring,Leaving the Tiergarten,00,robpics_item,robpics,img/derivatives/simple/obj1/thumbnail.jpg,img/derivatives/simple/obj1/full.jpg
+obj14,Chair,Paris,35mm,Olympus XA,,Spring,Jardin des Tuilleries,13,robpics_item,robpics,img/derivatives/simple/obj14/thumbnail.jpg,img/derivatives/simple/obj14/full.jpg
+obj28,Powerlines,Philadelphia,35mm,Nikon FG,,Summer,,27,robpics_item,robpics,img/derivatives/simple/obj28/thumbnail.jpg,img/derivatives/simple/obj28/full.jpg
+obj25,Houses,"Germantown, NY",35mm,Nikon FG,Kodak Portra 160,Fall,,24,robpics_item,robpics,img/derivatives/simple/obj25/thumbnail.jpg,img/derivatives/simple/obj25/full.jpg
+obj31,Sky,Philadelphia,35mm,Nikon ,Lomo 100,Summer,,30,robpics_item,robpics,img/derivatives/simple/obj31/thumbnail.jpg,img/derivatives/simple/obj31/full.jpg
+obj19,Building in Shadow,,35mm,Olympus XA,,Winter,,18,robpics_item,robpics,img/derivatives/simple/obj19/thumbnail.jpg,img/derivatives/simple/obj19/full.jpg
+obj18,Square Window,Mexico City,35mm,Olympus XA,,Summer,,17,robpics_item,robpics,img/derivatives/simple/obj18/thumbnail.jpg,img/derivatives/simple/obj18/full.jpg
+obj30,Leaves,Philadelphia,35mm,Nikon ,Lomo 100,Summer,,29,robpics_item,robpics,img/derivatives/simple/obj30/thumbnail.jpg,img/derivatives/simple/obj30/full.jpg
+obj24,Self portrait,,35mm,Nikon FG,Kodak Portra 160,,Fall,,23,robpics_item,robpics,img/derivatives/simple/obj24/thumbnail.jpg,img/derivatives/simple/obj24/full.jpg
+obj26,Model Town,"Red Hook, NY",35mm,Nikon FG,,Fall,,25,robpics_item,robpics,img/derivatives/simple/obj26/thumbnail.jpg,img/derivatives/simple/obj26/full.jpg
+obj27,Bare Branches,Philadelphia,35mm,Nikon FG,,Winter,,26,robpics_item,robpics,img/derivatives/simple/obj27/thumbnail.jpg,img/derivatives/simple/obj27/full.jpg
+obj23,Almost Dark,Venice Beach,35mm,Nikon FG,,Storm,,22,robpics_item,robpics,img/derivatives/simple/obj23/thumbnail.jpg,img/derivatives/simple/obj23/full.jpg
+obj22,Overcast,Venice Beach,35mm,Nikon FG,,Storm,,21,robpics_item,robpics,img/derivatives/simple/obj22/thumbnail.jpg,img/derivatives/simple/obj22/full.jpg
+obj20,Overcast,Venice Beach,35mm,Nikon FG,,Storm,,19,robpics_item,robpics,img/derivatives/simple/obj20/thumbnail.jpg,img/derivatives/simple/obj20/full.jpg
+obj9,Street View,Mexico City,35mm,Olympus XA,,Summer,,08,robpics_item,robpics,img/derivatives/simple/obj9/thumbnail.jpg,img/derivatives/simple/obj9/full.jpg
+obj8,Back Door,Philadelphia,120mm,Argus Argoflex,Kodak Portra 162,Summer,,07,robpics_item,robpics,img/derivatives/simple/obj8/thumbnail.jpg,img/derivatives/simple/obj8/full.jpg
+obj10,Outside,Kansas City,35mm,Olympus XA,Lomo Early Grey 100,Winter,,09,robpics_item,robpics,img/derivatives/simple/obj10/thumbnail.jpg,img/derivatives/simple/obj10/full.jpg
